@@ -34,7 +34,7 @@ Desarrollé una plataforma de comercio electrónico completa, que incluye la ges
 
 ## 📫 Contáctame
 
-- **LinkedIn:** [Tu Perfil LinkedIn](https://www.linkedin.com/in/andres-rodriguez-jimenez-51b41a325/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/andres-rodriguez-jimenez-51b41a325/)
 - **Email:** [arodriguezjimenez60@gmail.com]
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en ponerte en contacto.
