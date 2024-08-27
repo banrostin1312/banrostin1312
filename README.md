@@ -8,7 +8,7 @@ Soy un desarrollador Full Stack Web con experiencia en la creación de aplicacio
 - **Backend:** Express, Node.js, TypeScript
 - **Bases de Datos:** PostgreSQL, MongoDB
 - **DevOps:** Vercel, Git, GitHub
-- **Otros:** Redux, APIs RESTful, GraphQL
+- **Otros:** Redux, APIs RESTful
 
 ## 📚 Proyectos Destacados
 
@@ -23,3 +23,18 @@ Creé una aplicación que consume una API de películas, proporcionando a los us
 
 ### [Ecommerce]()
 Desarrollé una plataforma de comercio electrónico completa, que incluye la gestión de productos, un carrito de compras, y una experiencia de pago integrada.
+
+## 🌟 Habilidades
+
+- Desarrollo Full Stack Web
+- Diseño y gestión de bases de datos
+- Integración de APIs
+- Despliegue en la nube
+- Comunicación asertiva y trabajo en equipo
+
+## 📫 Contáctame
+
+- **LinkedIn:** [Tu Perfil LinkedIn](https://www.linkedin.com/in/andres-rodriguez-jimenez-51b41a325/)
+- **Email:** [arodriguezjimenez60@gmail.com]
+
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en ponerte en contacto.
