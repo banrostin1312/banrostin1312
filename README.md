@@ -8,3 +8,10 @@ Bases de Datos: PostgreSQL, MongoDB
 DevOps: Vercel, Git, GitHub
 Otros: Redux, APIs RESTful, GraphQL
 
+## 📚 Proyectos Destacados
+
+### [Gourmet Affair](enlace-al-proyecto)
+Desarrollé una plataforma web para que un chef pueda gestionar y ofrecer eventos culinarios privados. Incluye funcionalidades para crear eventos, recibir reservas y manejar pagos en línea.
+
+### [Nombre del Proyecto](enlace-al-proyecto)
+Descripción breve del proyecto, las tecnologías utilizadas, y el valor que aportó.
